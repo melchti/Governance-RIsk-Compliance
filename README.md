@@ -9,7 +9,11 @@ This shows, how effective security controls at various levels of an organization
 The Scenario for this assignment was as follows:
 
 •	Employees at SilverCorp are increasingly using their own personal devices for company work.
+
 •	Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.
+
 •	Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
+
 •	Allowing sensitive work information to be shared on employees’ personal devices has a number of security implications.
+
 •	You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
